@@ -2,20 +2,11 @@ h1 {
     font-size: 24px;
 }
 h2 {
-    color:blue
+    color:#739bd0
 }
-h1 {
+h1, footer {
     background-color: #a2cffe;
 }
-footer {
-    background-color: #a2cffe;
-}
-h1 {
-    text-align: center;
-}
-footer {
-    text-align: center;
-}
-#Image {
+h1, footer, #Image {
     text-align: center;
 }
