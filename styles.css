@@ -16,3 +16,7 @@ h1, footer, #Image {
 a.link-special {
     background-color: #a2cffe;
 }
+nav > ul > li {
+    font-size: small; 
+    color:#01455e ;
+}
